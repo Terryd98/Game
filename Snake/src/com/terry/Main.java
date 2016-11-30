@@ -135,8 +135,8 @@ public class Main extends Canvas implements Runnable {
 		main.frame.setLocation(0, 300);
 		main.frame.setVisible(true);
 		main.start();
-		
-		//Test for git hub
+		main.start();
+		//Test for git hub   njk
 	}
 
 }
